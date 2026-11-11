@@ -1,6 +1,0 @@
-Package: libsolv-tools
-Status: install reinstreq half-installed
-Priority: optional
-Section: admin
-Architecture: amd64
-Version: 0.7.28-1build2
