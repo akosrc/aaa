@@ -1,0 +1,24 @@
+Package: pacman-package-manager
+Status: install ok unpacked
+Priority: optional
+Section: admin
+Installed-Size: 3517
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 6.0.2-6ubuntu2
+Depends: libalpm13t64 (>= 13.0.2), libarchive13t64 (>= 3.5.0), libc6 (>= 2.38)
+Recommends: makepkg
+Suggests: archlinux-keyring
+Conffiles:
+ /etc/pacman.conf newconffile
+Description: Simple library-based package manager
+ pacman is a utility which manages software packages in Linux. It uses
+ simple compressed files as a package format, and maintains a text-based
+ package database just in case some hand tweaking is necessary.
+ pacman does not strive to "do everything." It will add, remove and
+ upgrade packages in the system, and it will allow you to query the
+ package database for installed packages, files and owners. It also
+ attempts to handle dependencies automatically and can download packages
+ from a remote server.
+Homepage: https://archlinux.org/pacman/
+Original-Maintainer: Ben Westover <me@benthetechguy.net>

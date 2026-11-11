@@ -1,0 +1,3915 @@
+6.8.0-44-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-47-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-48-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-49-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-50-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-51-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-52-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-53-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-55-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-56-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-57-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-58-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-59-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-6.8.0-60-generic
+Description-md5: ee6fe5918c3f095238b2c4c6b3d28621
+Description-en: Linux kernel image for version 6.8.0 on RISC-V SMP
+ This package contains the Linux kernel image for version 6.8.0 on
+ RISC-V SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-allwinner
+Description-md5: 56a74dbf0604069254cc9e5b08d7a863
+Description-en: Allwinner Linux kernel image
+ This package will always depend on the latest Allwinner kernel image
+ available.
+
+Package: linux-image-pic64gx
+Description-md5: 9068686823d37180808059e50133013a
+Description-en: Generic Linux kernel image (transitional package)
+ Transitional package for upgrades. This package can be safely removed.
+
+Package: linux-modules-6.14.0-22-generic
+Description-md5: 0c8ca84b501c03a398af2e683ee423be
+Description-en: Linux kernel modules for version 6.14.0
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.14.0-23-generic
+Description-md5: 0c8ca84b501c03a398af2e683ee423be
+Description-en: Linux kernel modules for version 6.14.0
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.14.0-24-generic
+Description-md5: 0c8ca84b501c03a398af2e683ee423be
+Description-en: Linux kernel modules for version 6.14.0
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.14.0-27-generic
+Description-md5: 0c8ca84b501c03a398af2e683ee423be
+Description-en: Linux kernel modules for version 6.14.0
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.14.0-28-generic
+Description-md5: 0c8ca84b501c03a398af2e683ee423be
+Description-en: Linux kernel modules for version 6.14.0
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-35-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-36-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-38-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-39-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-40-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-41-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-44-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-47-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-48-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-49-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-50-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-51-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-52-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-53-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-55-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-56-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-57-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-58-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-59-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-60-generic
+Description-md5: 2809e06ea82951cb65ab541f2dd382a8
+Description-en: Linux kernel extra modules for version 6.8.0 on RISC-V SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-pic64gx
+Description-md5: ea96dc961207142515464daa9dffad77
+Description-en: Complete Generic Linux kernel and headers (transitional package)
+ Transitional package for upgrades. This package can be safely removed.
+
+Package: linux-riscv-6.14-tools-6.14.0-22
+Description-md5: 200fcf0d1e87afb89084062b34002f73
+Description-en: Linux kernel version specific tools for version 6.14.0-22
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.14.0-22.
+ You probably want to install linux-tools-6.14.0-22-<flavour>.
+
+Package: linux-riscv-6.14-tools-6.14.0-23
+Description-md5: bb7519e461c4acea58ded6328d02b5ae
+Description-en: Linux kernel version specific tools for version 6.14.0-23
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.14.0-23.
+ You probably want to install linux-tools-6.14.0-23-<flavour>.
+
+Package: linux-riscv-6.14-tools-6.14.0-24
+Description-md5: 4728303e47d0e1c81177b9f4cc9da20c
+Description-en: Linux kernel version specific tools for version 6.14.0-24
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.14.0-24.
+ You probably want to install linux-tools-6.14.0-24-<flavour>.
+
+Package: linux-riscv-6.14-tools-6.14.0-27
+Description-md5: 69500f208a2e7bd0daf5c803277c148d
+Description-en: Linux kernel version specific tools for version 6.14.0-27
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.14.0-27.
+ You probably want to install linux-tools-6.14.0-27-<flavour>.
+
+Package: linux-riscv-6.14-tools-6.14.0-28
+Description-md5: 573dd64e4fdae2cf8c46214509493afd
+Description-en: Linux kernel version specific tools for version 6.14.0-28
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.14.0-28.
+ You probably want to install linux-tools-6.14.0-28-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-35
+Description-md5: 7968c12f4e7d9fb2742241b9276938a9
+Description-en: Linux kernel version specific tools for version 6.8.0-35
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-35 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-35-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-36
+Description-md5: 79a23313a31758f62b32eee21fc17032
+Description-en: Linux kernel version specific tools for version 6.8.0-36
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-36 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-36-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-38
+Description-md5: 893307600873ccea4e9105a82d00267e
+Description-en: Linux kernel version specific tools for version 6.8.0-38
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-38 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-38-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-39
+Description-md5: 275d26a726f945af3419df26f907c3a0
+Description-en: Linux kernel version specific tools for version 6.8.0-39
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-39 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-39-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-40
+Description-md5: 353d38cef563d4405db3bf1e4b672eb6
+Description-en: Linux kernel version specific tools for version 6.8.0-40
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-40 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-40-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-41
+Description-md5: 2842bfd488361bd72bc9a142948157ed
+Description-en: Linux kernel version specific tools for version 6.8.0-41
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-41 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-41-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-44
+Description-md5: b5fc40fb17ad9018b4743ee3ff0651df
+Description-en: Linux kernel version specific tools for version 6.8.0-44
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-44 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-44-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-47
+Description-md5: 69a1d2134f193cc7bbedb56e65287f4b
+Description-en: Linux kernel version specific tools for version 6.8.0-47
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-47 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-47-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-48
+Description-md5: 94a700bcd56d6b3131731e10669d53fd
+Description-en: Linux kernel version specific tools for version 6.8.0-48
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-48 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-48-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-49
+Description-md5: ccf61a17d3c2627c3d18b362453d1c4d
+Description-en: Linux kernel version specific tools for version 6.8.0-49
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-49 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-49-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-50
+Description-md5: 11f986a5e9c22a087048a760c30e1018
+Description-en: Linux kernel version specific tools for version 6.8.0-50
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-50 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-50-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-51
+Description-md5: ecc87ed003541df6d8ba697a84082849
+Description-en: Linux kernel version specific tools for version 6.8.0-51
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-51 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-51-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-52
+Description-md5: 7e1cb2ee7906ea53fb3b399608ecde52
+Description-en: Linux kernel version specific tools for version 6.8.0-52
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-52 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-52-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-53
+Description-md5: eb28f6a80a829c6c6f282ec5a9f5ef59
+Description-en: Linux kernel version specific tools for version 6.8.0-53
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-53 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-53-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-55
+Description-md5: a9a9431a0144a7c46146b8eca36d95ab
+Description-en: Linux kernel version specific tools for version 6.8.0-55
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-55 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-55-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-56
+Description-md5: e378faa9a149f61e6a2c843166774a86
+Description-en: Linux kernel version specific tools for version 6.8.0-56
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-56 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-56-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-57
+Description-md5: 94a4a6dbec5090b89f1e3214560b7a8c
+Description-en: Linux kernel version specific tools for version 6.8.0-57
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-57 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-57-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-58
+Description-md5: 4269ade4973728d2f9364a546426a210
+Description-en: Linux kernel version specific tools for version 6.8.0-58
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-58 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-58-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-59
+Description-md5: 0af5fb54c8cabd631bf0c30a541d3ffe
+Description-en: Linux kernel version specific tools for version 6.8.0-59
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-59 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-59-<flavour>.
+
+Package: linux-riscv-tools-6.8.0-60
+Description-md5: 47f38eccff78968f2481eb56f624afaf
+Description-en: Linux kernel version specific tools for version 6.8.0-60
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-60 on
+ RISC-V.
+ You probably want to install linux-tools-6.8.0-60-<flavour>.
+
+Package: linux-tools-6.14.0-22-generic
+Description-md5: 28d0a9cf177abb613c74e1e24412d370
+Description-en: Linux kernel version specific tools for version 6.14.0-22
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.14.0-22.
+
+Package: linux-tools-6.14.0-23-generic
+Description-md5: 11b84dfd7c086bcbf320331d3192b6f9
+Description-en: Linux kernel version specific tools for version 6.14.0-23
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.14.0-23.
+
+Package: linux-tools-6.8.0-35-generic
+Description-md5: 7e96bc190352f650fa4ccf3b7f8a14e4
+Description-en: Linux kernel version specific tools for version 6.8.0-35
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-35 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-36-generic
+Description-md5: 33bb1ab0147ee9f9232aab918a23b79e
+Description-en: Linux kernel version specific tools for version 6.8.0-36
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-36 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-38-generic
+Description-md5: 7950bb2aec30379c69127e03bb43f214
+Description-en: Linux kernel version specific tools for version 6.8.0-38
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-38 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-39-generic
+Description-md5: 29133342c3bbac25af4cc9821c005be1
+Description-en: Linux kernel version specific tools for version 6.8.0-39
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-39 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-40-generic
+Description-md5: b85e5abf15900005d6ac10202f405499
+Description-en: Linux kernel version specific tools for version 6.8.0-40
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-40 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-41-generic
+Description-md5: 5cd406409267e977757a3ddd21fc4db2
+Description-en: Linux kernel version specific tools for version 6.8.0-41
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-41 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-44-generic
+Description-md5: 67a72898c8fe21cbd2c22c4c81c4a5dc
+Description-en: Linux kernel version specific tools for version 6.8.0-44
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-44 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-47-generic
+Description-md5: 481e1296463b5321a69a6aa35bc1b65b
+Description-en: Linux kernel version specific tools for version 6.8.0-47
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-47 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-48-generic
+Description-md5: 7515161007712d3dd5edfbbedb03ed81
+Description-en: Linux kernel version specific tools for version 6.8.0-48
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-48 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-49-generic
+Description-md5: 3dedd7bef08b737f378013e69df07bef
+Description-en: Linux kernel version specific tools for version 6.8.0-49
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-49 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-50-generic
+Description-md5: dc6f14236b3b3ff91bfcc3e1db95f757
+Description-en: Linux kernel version specific tools for version 6.8.0-50
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-50 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-51-generic
+Description-md5: 5dcc02660b24193f69be70facde67786
+Description-en: Linux kernel version specific tools for version 6.8.0-51
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-51 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-52-generic
+Description-md5: 4629df94111574a9f3a26a2069c6eaee
+Description-en: Linux kernel version specific tools for version 6.8.0-52
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-52 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-53-generic
+Description-md5: 94f87acd7b26ce783989c0bd2a24e9ee
+Description-en: Linux kernel version specific tools for version 6.8.0-53
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-53 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-55-generic
+Description-md5: bb5853f3b4edfcf71da96c262d910cd8
+Description-en: Linux kernel version specific tools for version 6.8.0-55
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-55 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-56-generic
+Description-md5: b2440f83ba42e049a9d715e53a338b74
+Description-en: Linux kernel version specific tools for version 6.8.0-56
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-56 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-57-generic
+Description-md5: 9e11bbaecae36aa3b26265d1e71af05b
+Description-en: Linux kernel version specific tools for version 6.8.0-57
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-57 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-58-generic
+Description-md5: ff2c2b45d9b7e92b19b909bc4934706f
+Description-en: Linux kernel version specific tools for version 6.8.0-58
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-58 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-59-generic
+Description-md5: 1ec9bba2c97ac0fa54e6aa1b00f3dcbc
+Description-en: Linux kernel version specific tools for version 6.8.0-59
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-59 on
+ RISC-V.
+
+Package: linux-tools-6.8.0-60-generic
+Description-md5: d1dedb0e404585a01f280db855e98b6e
+Description-en: Linux kernel version specific tools for version 6.8.0-60
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-60 on
+ RISC-V.
+
+Package: linux-tools-allwinner
+Description-md5: a68539bb92e6d90fc878ef30442f9848
+Description-en: Allwinner Linux kernel tools
+ This package will always depend on the latest Allwinner kernel tools
+ available.
+
+Package: linux-tools-pic64gx
+Description-md5: 723d7950769ebf99ce075f140f3b1e64
+Description-en: Generic Linux kernel tools (transitional package)
+ Transitional package for upgrades. This package can be safely removed.
+
+Package: u-boot-microchip
+Description-md5: ad5368e9eab48a89a14bf5d0c9edb5b1
+Description-en: A boot loader for Microchip systems
+ Das U-Boot is a cross-platform bootloader for embedded systems,
+ used as the default boot loader by several board vendors.  It is
+ intended to be easy to port and to debug, and runs on many
+ supported architectures, including PPC, ARM, MIPS, x86, m68k,
+ NIOS, and Microblaze.
+ .
+ This package includes boot loaders for various Microchip platforms.
+ .
+ Included platforms:
+ microchip_mpfs_icicle
+
+Package: u-boot-sifive
+Description-md5: 8f2c5379e7360b85b0b494ee4d3f96f8
+Description-en: A boot loader for SiFive systems
+ Das U-Boot is a cross-platform bootloader for embedded systems,
+ used as the default boot loader by several board vendors.  It is
+ intended to be easy to port and to debug, and runs on many
+ supported architectures, including PPC, ARM, MIPS, x86, m68k,
+ NIOS, and Microblaze.
+ .
+ This package includes boot loaders for various SiFive
+ platforms.
+ .
+ Included platforms:
+ sifive_unleashed
+ sifive_unmatched
+
+Package: libc6-dev-s390
+Description-md5: 6505482b334f48aad4d708dfb015adea
+Description-en: GNU C Library: 32bit Development Libraries for IBM zSeries
+ Contains the symlinks and object files needed to compile and link programs
+ which use the standard C library. This is the 32bit version of the
+ library.
+
+Package: libc6-s390
+Description-md5: 7966d976953f1915c55728d7dad96de1
+Description-en: GNU C Library: 32bit Shared libraries for IBM zSeries
+ This package includes shared versions of the standard C library and the
+ standard math library, as well as many others. This is the 32bit version
+ of the library.
+
+Package: libekmfweb-dev
+Description-md5: c59a7c4d2b8342a5da70d83d1b219dcd
+Description-en: integration with IBM Enterprise Key Management Foundation (development)
+ This package contains library to integrate with IBM Enterprise Key
+ Management Foundation. It is used by zkey plugin for pervasive
+ encryption support.
+ .
+ This package contains the development library and headers.
+
+Package: libekmfweb1
+Description-md5: 9017800bae0c8f06ea05f7daffd4e098
+Description-en: integration with IBM Enterprise Key Management Foundation
+ This package contains library to integrate with IBM Enterprise Key
+ Management Foundation. It is used by zkey plugin for pervasive
+ encryption support.
+ .
+ This package contains the runtime library.
+
+Package: libkmipclient-dev
+Description-md5: 34b2e317056427f7800ac4a496769649
+Description-en: KMIP client library (development)
+ A shared library that provides an KMIP client to communicate with an KMIP
+ server. KMIP stands for Key Management Interoperability Protocol, and is an
+ extensible communication protocol that defines message formats for the
+ manipulation of cryptographic keys on a key management server.
+ .
+ This package contains the development library and headers
+
+Package: libkmipclient1
+Description-md5: 6b1b57395d9cf6497c4152f52d9e87d7
+Description-en: KMIP client library
+ A shared library that provides an KMIP client to communicate with an KMIP
+ server. KMIP stands for Key Management Interoperability Protocol, and is an
+ extensible communication protocol that defines message formats for the
+ manipulation of cryptographic keys on a key management server.
+ .
+ This package contains the runtime library.
+
+Package: linux-buildinfo-6.11.0-17-generic
+Description-md5: db03016f625afa0f617bc15b6f2fb883
+Description-en: Linux kernel buildinfo for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.11.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.11.0-19-generic
+Description-md5: db03016f625afa0f617bc15b6f2fb883
+Description-en: Linux kernel buildinfo for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.11.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.11.0-21-generic
+Description-md5: db03016f625afa0f617bc15b6f2fb883
+Description-en: Linux kernel buildinfo for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.11.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.11.0-24-generic
+Description-md5: db03016f625afa0f617bc15b6f2fb883
+Description-en: Linux kernel buildinfo for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.11.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.11.0-25-generic
+Description-md5: db03016f625afa0f617bc15b6f2fb883
+Description-en: Linux kernel buildinfo for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.11.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.11.0-26-generic
+Description-md5: db03016f625afa0f617bc15b6f2fb883
+Description-en: Linux kernel buildinfo for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.11.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.11.0-28-generic
+Description-md5: db03016f625afa0f617bc15b6f2fb883
+Description-en: Linux kernel buildinfo for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.11.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.11.0-29-generic
+Description-md5: db03016f625afa0f617bc15b6f2fb883
+Description-en: Linux kernel buildinfo for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.11.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-35-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-36-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-38-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-39-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-40-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-41-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-44-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-45-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-47-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-48-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-49-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-50-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-51-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-52-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-53-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-54-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-55-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-56-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-57-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-58-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-59-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-60-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-62-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-63-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-64-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-71-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-buildinfo-6.8.0-78-generic
+Description-md5: 118c691c392729999bed6a3c88c73964
+Description-en: Linux kernel buildinfo for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel buildinfo for version 6.8.0 on
+ System 390x SMP.
+ .
+ You likely do not want to install this package.
+
+Package: linux-headers-6.11.0-17-generic
+Description-md5: d95bdede50ea2d6234bce9a711cea9b2
+Description-en: Linux kernel headers for version 6.11.0 on System 390x SMP
+ This package provides kernel header files for version 6.11.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.11.0-17/debian.README.gz for details.
+
+Package: linux-headers-6.11.0-19-generic
+Description-md5: 4976a9cfb39e744e55bfdbd8c5dc3bb8
+Description-en: Linux kernel headers for version 6.11.0 on System 390x SMP
+ This package provides kernel header files for version 6.11.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.11.0-19/debian.README.gz for details.
+
+Package: linux-headers-6.11.0-21-generic
+Description-md5: cc9ef3ebac3a930f9527539e15e56492
+Description-en: Linux kernel headers for version 6.11.0 on System 390x SMP
+ This package provides kernel header files for version 6.11.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.11.0-21/debian.README.gz for details.
+
+Package: linux-headers-6.11.0-24-generic
+Description-md5: 375918dcf9fb4851d9c8ffcae2ff7e3a
+Description-en: Linux kernel headers for version 6.11.0 on System 390x SMP
+ This package provides kernel header files for version 6.11.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.11.0-24/debian.README.gz for details.
+
+Package: linux-headers-6.11.0-25-generic
+Description-md5: b7050c8181e2e193e8a2910fec3959c1
+Description-en: Linux kernel headers for version 6.11.0 on System 390x SMP
+ This package provides kernel header files for version 6.11.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.11.0-25/debian.README.gz for details.
+
+Package: linux-headers-6.11.0-26-generic
+Description-md5: 6933dd3213c8efa2a840a041334db28c
+Description-en: Linux kernel headers for version 6.11.0 on System 390x SMP
+ This package provides kernel header files for version 6.11.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.11.0-26/debian.README.gz for details.
+
+Package: linux-headers-6.11.0-28-generic
+Description-md5: 8bb74e863d8224c7671ed49d62f56c17
+Description-en: Linux kernel headers for version 6.11.0 on System 390x SMP
+ This package provides kernel header files for version 6.11.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.11.0-28/debian.README.gz for details.
+
+Package: linux-headers-6.11.0-29-generic
+Description-md5: 7f3336643130c7c6afb7b1abdef80caa
+Description-en: Linux kernel headers for version 6.11.0 on System 390x SMP
+ This package provides kernel header files for version 6.11.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.11.0-29/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-35-generic
+Description-md5: 2afd92b1faeb4663265a4616904eebec
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-35/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-36-generic
+Description-md5: f4f791b36d57e59a154636c425bd1b37
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-36/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-38-generic
+Description-md5: 341c0ef4dc836b368993e3a9c2206885
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-38/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-39-generic
+Description-md5: df919e168511e83eee43209266c60cfe
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-39/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-40-generic
+Description-md5: e53789876c10483762dbda7d2bcbd185
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-40/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-41-generic
+Description-md5: 301f51ceba31f36145264dfc880531d8
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-41/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-44-generic
+Description-md5: 8bc8d32504234f9cb70aa28906c52553
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-44/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-45-generic
+Description-md5: 40742c4c86a4b761d460ac435289ee12
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-45/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-47-generic
+Description-md5: 4820e623ace71bdb0e70936963372c0e
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-47/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-48-generic
+Description-md5: 03721ade81aa8a62b7e7e5f6b10ae4dd
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-48/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-49-generic
+Description-md5: b4fc47868c0988fd84f578f3d21949f4
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-49/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-50-generic
+Description-md5: 10d82f210601756fe59291ca9dc4e112
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-50/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-51-generic
+Description-md5: 4ce23b8e0b1f8bacc75e8a57e4f432d3
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-51/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-52-generic
+Description-md5: e6c42fc2085114682bd7297203ba875f
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-52/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-53-generic
+Description-md5: 7d21a4ea714c5b87010c658e0eb090eb
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-53/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-54-generic
+Description-md5: d5ad0f5985e1350a33b1c565ca2ba020
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-54/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-55-generic
+Description-md5: 4b7a309e605585e368867bf628db40f0
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-55/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-56-generic
+Description-md5: 147b7dd19b6d836a76c801a30411c6de
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-56/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-57-generic
+Description-md5: bb77c2512fa5f818cdceabbb99ab5dd2
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-57/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-58-generic
+Description-md5: cf0d1c7e384c943b99ba01a45513205e
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-58/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-59-generic
+Description-md5: 332e87bed95838e0098fc5ade495f5cf
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-59/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-60-generic
+Description-md5: ac8375fd08a28cc0e06c87deb66120b0
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-60/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-62-generic
+Description-md5: d23a719656560a408238a094e3002728
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-62/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-63-generic
+Description-md5: 05d0a4bc8b2cc29196411297dc8ec387
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-63/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-64-generic
+Description-md5: fe8daf6444bf10af3011f2a0706a54d2
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-64/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-71-generic
+Description-md5: 7d6505d1816532fba82805e2ca4260dc
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-71/debian.README.gz for details.
+
+Package: linux-headers-6.8.0-78-generic
+Description-md5: 8b5fd01e811f23cade16dbd346549720
+Description-en: Linux kernel headers for version 6.8.0 on System 390x SMP
+ This package provides kernel header files for version 6.8.0 on
+ System 390x SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-6.8.0-78/debian.README.gz for details.
+
+Package: linux-hwe-6.11-tools-6.11.0-17
+Description-md5: b2b82136f9873987d1105531ddcf31fc
+Description-en: Linux kernel version specific tools for version 6.11.0-17
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-17 on
+ System 390x.
+ You probably want to install linux-tools-6.11.0-17-<flavour>.
+
+Package: linux-hwe-6.11-tools-6.11.0-19
+Description-md5: 69aa480e862c147cac1458cec7e83567
+Description-en: Linux kernel version specific tools for version 6.11.0-19
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-19 on
+ System 390x.
+ You probably want to install linux-tools-6.11.0-19-<flavour>.
+
+Package: linux-hwe-6.11-tools-6.11.0-21
+Description-md5: c3cd0ad0ce674f579d4d82991e398ab1
+Description-en: Linux kernel version specific tools for version 6.11.0-21
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-21 on
+ System 390x.
+ You probably want to install linux-tools-6.11.0-21-<flavour>.
+
+Package: linux-hwe-6.11-tools-6.11.0-24
+Description-md5: e1122d54e4836bae8fff73885b0de3c5
+Description-en: Linux kernel version specific tools for version 6.11.0-24
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-24 on
+ System 390x.
+ You probably want to install linux-tools-6.11.0-24-<flavour>.
+
+Package: linux-hwe-6.11-tools-6.11.0-25
+Description-md5: bab24bb9bc561033695370e60e298c2f
+Description-en: Linux kernel version specific tools for version 6.11.0-25
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-25 on
+ System 390x.
+ You probably want to install linux-tools-6.11.0-25-<flavour>.
+
+Package: linux-hwe-6.11-tools-6.11.0-26
+Description-md5: 4d929c143289c326958baa18d2a51dad
+Description-en: Linux kernel version specific tools for version 6.11.0-26
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-26 on
+ System 390x.
+ You probably want to install linux-tools-6.11.0-26-<flavour>.
+
+Package: linux-hwe-6.11-tools-6.11.0-28
+Description-md5: 283d7daf8f18325e8d086262baf5bee3
+Description-en: Linux kernel version specific tools for version 6.11.0-28
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-28 on
+ System 390x.
+ You probably want to install linux-tools-6.11.0-28-<flavour>.
+
+Package: linux-hwe-6.11-tools-6.11.0-29
+Description-md5: 09f700606a9588f56ddca7780d385c09
+Description-en: Linux kernel version specific tools for version 6.11.0-29
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-29 on
+ System 390x.
+ You probably want to install linux-tools-6.11.0-29-<flavour>.
+
+Package: linux-image-unsigned-6.11.0-17-generic
+Description-md5: 68ffc5d472aa7ccad756f9ddcec0e8a3
+Description-en: Linux kernel image for version 6.11.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.11.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.11.0-19-generic
+Description-md5: 68ffc5d472aa7ccad756f9ddcec0e8a3
+Description-en: Linux kernel image for version 6.11.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.11.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.11.0-21-generic
+Description-md5: 68ffc5d472aa7ccad756f9ddcec0e8a3
+Description-en: Linux kernel image for version 6.11.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.11.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.11.0-24-generic
+Description-md5: 68ffc5d472aa7ccad756f9ddcec0e8a3
+Description-en: Linux kernel image for version 6.11.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.11.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.11.0-25-generic
+Description-md5: 68ffc5d472aa7ccad756f9ddcec0e8a3
+Description-en: Linux kernel image for version 6.11.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.11.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.11.0-26-generic
+Description-md5: 68ffc5d472aa7ccad756f9ddcec0e8a3
+Description-en: Linux kernel image for version 6.11.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.11.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.11.0-28-generic
+Description-md5: 68ffc5d472aa7ccad756f9ddcec0e8a3
+Description-en: Linux kernel image for version 6.11.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.11.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.11.0-29-generic
+Description-md5: 68ffc5d472aa7ccad756f9ddcec0e8a3
+Description-en: Linux kernel image for version 6.11.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.11.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-35-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-36-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-38-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-39-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-40-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-41-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-44-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-45-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-47-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-48-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-49-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-50-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-51-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-52-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-53-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-54-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-55-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-56-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-57-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-58-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-59-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-60-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-62-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-63-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-64-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-71-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-image-unsigned-6.8.0-78-generic
+Description-md5: c80ff8f64f65e8d7d520e6b08203c9ae
+Description-en: Linux kernel image for version 6.8.0 on System 390x SMP
+ This package contains the unsigned Linux kernel image for version 6.8.0 on
+ System 390x SMP.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.11.0-17-generic
+Description-md5: 0989ac4f216fe385c5a9570147ebdb3c
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.11.0-19-generic
+Description-md5: 0989ac4f216fe385c5a9570147ebdb3c
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.11.0-21-generic
+Description-md5: 0989ac4f216fe385c5a9570147ebdb3c
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.11.0-24-generic
+Description-md5: 0989ac4f216fe385c5a9570147ebdb3c
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.11.0-25-generic
+Description-md5: 0989ac4f216fe385c5a9570147ebdb3c
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.11.0-26-generic
+Description-md5: 0989ac4f216fe385c5a9570147ebdb3c
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.11.0-28-generic
+Description-md5: 0989ac4f216fe385c5a9570147ebdb3c
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.11.0-29-generic
+Description-md5: 0989ac4f216fe385c5a9570147ebdb3c
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-35-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-36-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-38-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-39-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-40-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-41-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-44-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-45-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-47-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-48-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-49-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-50-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-51-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-52-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-53-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-54-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-55-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-56-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-57-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-58-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-59-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-60-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-62-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-63-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-64-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-71-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-6.8.0-78-generic
+Description-md5: 515a94bd5e82d1bdd72e12ce5bbedb65
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.11.0-17-generic
+Description-md5: d0781cab277eb205fe3d37b331aa20a7
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.11.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.11.0-19-generic
+Description-md5: d0781cab277eb205fe3d37b331aa20a7
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.11.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.11.0-21-generic
+Description-md5: d0781cab277eb205fe3d37b331aa20a7
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.11.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.11.0-24-generic
+Description-md5: d0781cab277eb205fe3d37b331aa20a7
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.11.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.11.0-25-generic
+Description-md5: d0781cab277eb205fe3d37b331aa20a7
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.11.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.11.0-26-generic
+Description-md5: d0781cab277eb205fe3d37b331aa20a7
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.11.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.11.0-28-generic
+Description-md5: d0781cab277eb205fe3d37b331aa20a7
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.11.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.11.0-29-generic
+Description-md5: d0781cab277eb205fe3d37b331aa20a7
+Description-en: Linux kernel extra modules for version 6.11.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.11.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-35-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-36-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-38-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-39-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-40-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-41-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-44-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-45-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-47-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-48-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-49-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-50-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-51-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-52-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-53-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-54-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-55-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-56-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-57-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-58-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-59-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-60-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-62-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-63-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-64-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-71-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-6.8.0-78-generic
+Description-md5: eab24e4e8a27e98fb6904a00c92fb3db
+Description-en: Linux kernel extra modules for version 6.8.0 on System 390x SMP
+ This package contains the Linux kernel extra modules for version 6.8.0 on
+ System 390x SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-tools-6.11.0-17-generic
+Description-md5: 9d6265620ad241ac369d0b4a4ac12268
+Description-en: Linux kernel version specific tools for version 6.11.0-17
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-17 on
+ System 390x.
+
+Package: linux-tools-6.11.0-19-generic
+Description-md5: 7b4260acc7678057a37139a89be59ff2
+Description-en: Linux kernel version specific tools for version 6.11.0-19
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-19 on
+ System 390x.
+
+Package: linux-tools-6.11.0-21-generic
+Description-md5: f19eb9dbac7dc75cdc3c7f66171be3e9
+Description-en: Linux kernel version specific tools for version 6.11.0-21
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-21 on
+ System 390x.
+
+Package: linux-tools-6.11.0-24-generic
+Description-md5: aa5266ff4ccaa049d2807e5fe4b07741
+Description-en: Linux kernel version specific tools for version 6.11.0-24
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-24 on
+ System 390x.
+
+Package: linux-tools-6.11.0-25-generic
+Description-md5: 8d2ced9721543f5dc12688454f8692c9
+Description-en: Linux kernel version specific tools for version 6.11.0-25
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-25 on
+ System 390x.
+
+Package: linux-tools-6.11.0-26-generic
+Description-md5: 91c2205e9d326c7553af98e06dd134bf
+Description-en: Linux kernel version specific tools for version 6.11.0-26
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-26 on
+ System 390x.
+
+Package: linux-tools-6.11.0-28-generic
+Description-md5: fc3ddb1d99d15bd97a84c553e450a3f9
+Description-en: Linux kernel version specific tools for version 6.11.0-28
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-28 on
+ System 390x.
+
+Package: linux-tools-6.11.0-29-generic
+Description-md5: 5165e007ad93f1cc6c9ee29de590a64d
+Description-en: Linux kernel version specific tools for version 6.11.0-29
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.11.0-29 on
+ System 390x.
+
+Package: linux-tools-6.8.0-35
+Description-md5: 595ee2ecffb54021d56ec78f56236661
+Description-en: Linux kernel version specific tools for version 6.8.0-35
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-35 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-35-<flavour>.
+
+Package: linux-tools-6.8.0-35-generic
+Description-md5: 18b11304ad575f706016d241b47d8967
+Description-en: Linux kernel version specific tools for version 6.8.0-35
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-35 on
+ System 390x.
+
+Package: linux-tools-6.8.0-36
+Description-md5: 6429f7a7fd86f6d4763fb2027be7e873
+Description-en: Linux kernel version specific tools for version 6.8.0-36
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-36 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-36-<flavour>.
+
+Package: linux-tools-6.8.0-36-generic
+Description-md5: b2a9fb5a03a853c939979cc22adfe7d3
+Description-en: Linux kernel version specific tools for version 6.8.0-36
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-36 on
+ System 390x.
+
+Package: linux-tools-6.8.0-38
+Description-md5: eccd3f094443ec2f9945cf968794f7be
+Description-en: Linux kernel version specific tools for version 6.8.0-38
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-38 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-38-<flavour>.
+
+Package: linux-tools-6.8.0-38-generic
+Description-md5: ba96cca6f4909d3f8212cfbc46613dcd
+Description-en: Linux kernel version specific tools for version 6.8.0-38
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-38 on
+ System 390x.
+
+Package: linux-tools-6.8.0-39
+Description-md5: 02879d63a4e786eacce93d39df5647ba
+Description-en: Linux kernel version specific tools for version 6.8.0-39
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-39 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-39-<flavour>.
+
+Package: linux-tools-6.8.0-39-generic
+Description-md5: d5ada8d36aa07728d1f77250ed81b4ac
+Description-en: Linux kernel version specific tools for version 6.8.0-39
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-39 on
+ System 390x.
+
+Package: linux-tools-6.8.0-40
+Description-md5: 0f8cbd49d5d672a3338a66982124cd5a
+Description-en: Linux kernel version specific tools for version 6.8.0-40
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-40 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-40-<flavour>.
+
+Package: linux-tools-6.8.0-40-generic
+Description-md5: e5d3a8f96931db2ec5e6d8d6362b810c
+Description-en: Linux kernel version specific tools for version 6.8.0-40
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-40 on
+ System 390x.
+
+Package: linux-tools-6.8.0-41
+Description-md5: f05c9485399742b9e1a7b0d691d6f3d3
+Description-en: Linux kernel version specific tools for version 6.8.0-41
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-41 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-41-<flavour>.
+
+Package: linux-tools-6.8.0-41-generic
+Description-md5: 243176fee89329844cc18d16bff067d4
+Description-en: Linux kernel version specific tools for version 6.8.0-41
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-41 on
+ System 390x.
+
+Package: linux-tools-6.8.0-44
+Description-md5: a66e85fcc7089e6051bbbc2b7158c875
+Description-en: Linux kernel version specific tools for version 6.8.0-44
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-44 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-44-<flavour>.
+
+Package: linux-tools-6.8.0-44-generic
+Description-md5: 9b2c7e4317a71d878e28e98e76951964
+Description-en: Linux kernel version specific tools for version 6.8.0-44
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-44 on
+ System 390x.
+
+Package: linux-tools-6.8.0-45
+Description-md5: 677d39f55735a509c08ac01f20bf6a07
+Description-en: Linux kernel version specific tools for version 6.8.0-45
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-45 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-45-<flavour>.
+
+Package: linux-tools-6.8.0-45-generic
+Description-md5: d11e8ba68aa9d7afc40b715ecc3afd7e
+Description-en: Linux kernel version specific tools for version 6.8.0-45
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-45 on
+ System 390x.
+
+Package: linux-tools-6.8.0-47
+Description-md5: 3d44a874b67423f181cf124480285bae
+Description-en: Linux kernel version specific tools for version 6.8.0-47
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-47 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-47-<flavour>.
+
+Package: linux-tools-6.8.0-47-generic
+Description-md5: 4492dbe863bf674b905cd9cd377e9194
+Description-en: Linux kernel version specific tools for version 6.8.0-47
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-47 on
+ System 390x.
+
+Package: linux-tools-6.8.0-48
+Description-md5: 2158ba8a37dce00b1b81adef512f1554
+Description-en: Linux kernel version specific tools for version 6.8.0-48
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-48 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-48-<flavour>.
+
+Package: linux-tools-6.8.0-48-generic
+Description-md5: a854869b10f8ff3b932d6c2a328db906
+Description-en: Linux kernel version specific tools for version 6.8.0-48
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-48 on
+ System 390x.
+
+Package: linux-tools-6.8.0-49
+Description-md5: 7406fccb1ef2faf943107626fdb28c57
+Description-en: Linux kernel version specific tools for version 6.8.0-49
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-49 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-49-<flavour>.
+
+Package: linux-tools-6.8.0-49-generic
+Description-md5: 5fe74bb78971b1cd045724e973088bff
+Description-en: Linux kernel version specific tools for version 6.8.0-49
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-49 on
+ System 390x.
+
+Package: linux-tools-6.8.0-50
+Description-md5: 65e706ae46b936cf28aeaa8b786a4a9f
+Description-en: Linux kernel version specific tools for version 6.8.0-50
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-50 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-50-<flavour>.
+
+Package: linux-tools-6.8.0-50-generic
+Description-md5: 310d14fcf411553addcb0000c244d539
+Description-en: Linux kernel version specific tools for version 6.8.0-50
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-50 on
+ System 390x.
+
+Package: linux-tools-6.8.0-51
+Description-md5: e486dc8bada3f44c8aa73950d4b9a36b
+Description-en: Linux kernel version specific tools for version 6.8.0-51
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-51 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-51-<flavour>.
+
+Package: linux-tools-6.8.0-51-generic
+Description-md5: 9712ecf6b687c56c340ca162cc4c803d
+Description-en: Linux kernel version specific tools for version 6.8.0-51
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-51 on
+ System 390x.
+
+Package: linux-tools-6.8.0-52
+Description-md5: 185f3bc9ee6ce0d1b8a17c9d6e942e46
+Description-en: Linux kernel version specific tools for version 6.8.0-52
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-52 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-52-<flavour>.
+
+Package: linux-tools-6.8.0-52-generic
+Description-md5: ee5d4d2fd865a305b586a59141140f94
+Description-en: Linux kernel version specific tools for version 6.8.0-52
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-52 on
+ System 390x.
+
+Package: linux-tools-6.8.0-53
+Description-md5: 719ecbf905f1c765c3032aa4111d568a
+Description-en: Linux kernel version specific tools for version 6.8.0-53
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-53 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-53-<flavour>.
+
+Package: linux-tools-6.8.0-53-generic
+Description-md5: 6b6ad548f61b2a6011368e97b285af7c
+Description-en: Linux kernel version specific tools for version 6.8.0-53
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-53 on
+ System 390x.
+
+Package: linux-tools-6.8.0-54
+Description-md5: 31d6e621f5bdb4e08b197145bc4f3021
+Description-en: Linux kernel version specific tools for version 6.8.0-54
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-54 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-54-<flavour>.
+
+Package: linux-tools-6.8.0-54-generic
+Description-md5: 00e3b3ec6feecb99f3cb1f0c4387ee1d
+Description-en: Linux kernel version specific tools for version 6.8.0-54
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-54 on
+ System 390x.
+
+Package: linux-tools-6.8.0-55
+Description-md5: bb330fb47d336219a4b113dd35e20a79
+Description-en: Linux kernel version specific tools for version 6.8.0-55
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-55 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-55-<flavour>.
+
+Package: linux-tools-6.8.0-55-generic
+Description-md5: 11a70380d24e7c57188942bfc66fe048
+Description-en: Linux kernel version specific tools for version 6.8.0-55
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-55 on
+ System 390x.
+
+Package: linux-tools-6.8.0-56
+Description-md5: eee2e538787cbd6ca1fca41592f179db
+Description-en: Linux kernel version specific tools for version 6.8.0-56
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-56 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-56-<flavour>.
+
+Package: linux-tools-6.8.0-56-generic
+Description-md5: dbeb08ff78448470f7141ea39d7c4c5a
+Description-en: Linux kernel version specific tools for version 6.8.0-56
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-56 on
+ System 390x.
+
+Package: linux-tools-6.8.0-57
+Description-md5: b4f096b3d64de87bd17dc666498d7df4
+Description-en: Linux kernel version specific tools for version 6.8.0-57
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-57 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-57-<flavour>.
+
+Package: linux-tools-6.8.0-57-generic
+Description-md5: 4efa45c2851c7090e42c29a11793ce92
+Description-en: Linux kernel version specific tools for version 6.8.0-57
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-57 on
+ System 390x.
+
+Package: linux-tools-6.8.0-58
+Description-md5: 435f7d7ea7d5c0e663b4022945373800
+Description-en: Linux kernel version specific tools for version 6.8.0-58
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-58 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-58-<flavour>.
+
+Package: linux-tools-6.8.0-58-generic
+Description-md5: 2371836924ad1b7730621b5cbbeb4de7
+Description-en: Linux kernel version specific tools for version 6.8.0-58
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-58 on
+ System 390x.
+
+Package: linux-tools-6.8.0-59
+Description-md5: abd41a51fe3d7a4008c26e83f49d0ff5
+Description-en: Linux kernel version specific tools for version 6.8.0-59
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-59 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-59-<flavour>.
+
+Package: linux-tools-6.8.0-59-generic
+Description-md5: dfe167068125dab7a5ae25178e61f660
+Description-en: Linux kernel version specific tools for version 6.8.0-59
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-59 on
+ System 390x.
+
+Package: linux-tools-6.8.0-60
+Description-md5: 518cddba0565345ecb4b6d6b0c698dde
+Description-en: Linux kernel version specific tools for version 6.8.0-60
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-60 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-60-<flavour>.
+
+Package: linux-tools-6.8.0-60-generic
+Description-md5: cd68f10c367601f09a790c86435468c9
+Description-en: Linux kernel version specific tools for version 6.8.0-60
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-60 on
+ System 390x.
+
+Package: linux-tools-6.8.0-62
+Description-md5: 970ee2dc7ff458a03ecbaccc3394a3e5
+Description-en: Linux kernel version specific tools for version 6.8.0-62
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-62 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-62-<flavour>.
+
+Package: linux-tools-6.8.0-62-generic
+Description-md5: dc1d973a770708c869b939fbe4e1a7b3
+Description-en: Linux kernel version specific tools for version 6.8.0-62
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-62 on
+ System 390x.
+
+Package: linux-tools-6.8.0-63
+Description-md5: cc6d9bc3d911e05fd64859c3a36c6fbf
+Description-en: Linux kernel version specific tools for version 6.8.0-63
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-63 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-63-<flavour>.
+
+Package: linux-tools-6.8.0-63-generic
+Description-md5: 2d8e128e030880398f98cb093067edb8
+Description-en: Linux kernel version specific tools for version 6.8.0-63
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-63 on
+ System 390x.
+
+Package: linux-tools-6.8.0-64
+Description-md5: 2faa8c10193eac7f6b1298153ec810a4
+Description-en: Linux kernel version specific tools for version 6.8.0-64
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-64 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-64-<flavour>.
+
+Package: linux-tools-6.8.0-64-generic
+Description-md5: f301303bd54a9496c5795b8a5eaa2d17
+Description-en: Linux kernel version specific tools for version 6.8.0-64
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-64 on
+ System 390x.
+
+Package: linux-tools-6.8.0-71
+Description-md5: 99e2f6b958c5600ad8c199a586ab1ee9
+Description-en: Linux kernel version specific tools for version 6.8.0-71
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-71 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-71-<flavour>.
+
+Package: linux-tools-6.8.0-71-generic
+Description-md5: 1d8c96a9d9285d2c0ac9221ccdd1fcd8
+Description-en: Linux kernel version specific tools for version 6.8.0-71
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-71 on
+ System 390x.
+
+Package: linux-tools-6.8.0-78
+Description-md5: 81b7a69cb7315b7b334212730cb9cea3
+Description-en: Linux kernel version specific tools for version 6.8.0-78
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-78 on
+ System 390x.
+ You probably want to install linux-tools-6.8.0-78-<flavour>.
+
+Package: linux-tools-6.8.0-78-generic
+Description-md5: b4c0a0c33c95383b2a9b3e69311e1adf
+Description-en: Linux kernel version specific tools for version 6.8.0-78
+ This package provides the architecture dependant parts for kernel
+ version locked tools (such as perf and x86_energy_perf_policy) for
+ version 6.8.0-78 on
+ System 390x.
+
+Package: s390-tools-zkey
+Description-md5: 77cfc7283e0878ba834840254ca5a642
+Description-en: zkey utilities for Linux on z Systems
+ The package contains zkey and zkey-cryptsetup from the s390-tools
+ collection of utilities.
+

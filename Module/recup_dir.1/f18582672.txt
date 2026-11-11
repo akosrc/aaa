@@ -1,0 +1,28 @@
+Package: libauthen-sasl-perl
+Version: 2.1700-1
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
+Installed-Size: 119
+Depends: perl:any
+Suggests: libdigest-hmac-perl, libgssapi-perl
+Section: perl
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://metacpan.org/release/Authen-SASL
+Description: Authen::SASL - SASL Authentication framework
+ SASL is a generic mechanism for authentication used by several network
+ protocols. Authen::SASL provides an implementation framework that all
+ protocols should be able to share.
+ .
+ The framework allows different implementations of the connection class
+ to be plugged in. At the time of writing there were two such plugins:
+  - Authen::SASL::Perl
+    This module implements several mechanisms and is implemented
+    entirely in Perl.
+  - Authen::SASL::XS
+    This module uses the Cyrus SASL C-library (both version 1 and 2 are
+    supported).
+  - Authen::SASL::Cyrus
+    This module is the predecessor to Authen::SASL::XS. Until version 2.16,
+    Authen::SASL::Cyrus was loaded as an alternative to Authen::SASL::XS.
