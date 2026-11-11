@@ -1,0 +1,22 @@
+/home/mudas/iOS-Pubg-ESP-Project/.theos/obj/debug/arm64/Lvzb.mm.fd907a71.o: \
+  Lvzb.mm /home/mudas/theos/Prefix.pch \
+  /home/mudas/iOS-Pubg-ESP-Project/esp/Lvzb.h \
+  /home/mudas/iOS-Pubg-ESP-Project/esp/Gobal.h \
+  /home/mudas/iOS-Pubg-ESP-Project/esp/defs.h \
+  /home/mudas/iOS-Pubg-ESP-Project/esp/utf.h \
+  /home/mudas/iOS-Pubg-ESP-Project/esp/dobby.h \
+  /home/mudas/iOS-Pubg-ESP-Project/esp/ZXZY.h
+
+/home/mudas/theos/Prefix.pch:
+
+/home/mudas/iOS-Pubg-ESP-Project/esp/Lvzb.h:
+
+/home/mudas/iOS-Pubg-ESP-Project/esp/Gobal.h:
+
+/home/mudas/iOS-Pubg-ESP-Project/esp/defs.h:
+
+/home/mudas/iOS-Pubg-ESP-Project/esp/utf.h:
+
+/home/mudas/iOS-Pubg-ESP-Project/esp/dobby.h:
+
+/home/mudas/iOS-Pubg-ESP-Project/esp/ZXZY.h:

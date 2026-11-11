@@ -1,0 +1,7 @@
+/home/mudas/DeviceInsight/.theos/obj/debug/arm64/DIInfoViewController.m.da54e825.o: \
+  DIInfoViewController.m /home/mudas/theos/Prefix.pch \
+  /home/mudas/DeviceInsight/DIInfoViewController.h
+
+/home/mudas/theos/Prefix.pch:
+
+/home/mudas/DeviceInsight/DIInfoViewController.h:

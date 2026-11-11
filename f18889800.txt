@@ -1,0 +1,10 @@
+/home/mudas/DeviceInsight/.theos/obj/debug/armv7/XXAppDelegate.m.f4ed0d1d.o: \
+  XXAppDelegate.m /home/mudas/theos/Prefix.pch \
+  /home/mudas/DeviceInsight/XXAppDelegate.h \
+  /home/mudas/DeviceInsight/DIInfoViewController.h
+
+/home/mudas/theos/Prefix.pch:
+
+/home/mudas/DeviceInsight/XXAppDelegate.h:
+
+/home/mudas/DeviceInsight/DIInfoViewController.h:
