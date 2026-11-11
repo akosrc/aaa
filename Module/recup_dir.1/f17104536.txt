@@ -1,6 +1,0 @@
-ames.
-
-        Names are returned in an arbitrary order, just like an ordinary
-        Python dict.  Equivalent to attrib.keys()
-
-        )
