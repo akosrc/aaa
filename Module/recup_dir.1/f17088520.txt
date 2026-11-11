@@ -1,0 +1,29 @@
+Package: man-db
+Status: install ok half-configured
+Priority: important
+Section: doc
+Installed-Size: 2928
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Multi-Arch: foreign
+Version: 2.12.0-4build2
+Config-Version: 2.12.0-4build2
+Replaces: man, nlsutils
+Provides: man, man-browser
+Depends: bsdextrautils | bsdmainutils (<< 12.1.1~), groff-base, debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.38), libgdbm6t64 (>= 1.16), libpipeline1 (>= 1.5.0), libseccomp2 (>= 2.1.0), zlib1g (>= 1:1.1.4)
+Suggests: apparmor, groff, less, www-browser
+Conflicts: man
+Conffiles:
+ /etc/apparmor.d/usr.bin.man 4f614d75041882370498f7fe2d43a44b
+ /etc/cron.daily/man-db 62423d7fa68568c9c0aefceac182d9ea
+ /etc/cron.weekly/man-db eebc5bb3e1dac973301570da3f453334
+ /etc/manpath.config 6d70333de0a08c7a71018da458201eb6
+Description: tools for reading manual pages
+ This package provides the man command, the primary way of examining the
+ system help files (manual pages). Other utilities provided include the
+ whatis and apropos commands for searching the manual page database, the
+ manpath utility for determining the manual page search path, and the
+ maintenance utilities mandb, catman and zsoelim. man-db uses the groff
+ suite of programs to format and display the manual pages.
+Homepage: https://man-db.gitlab.io/man-db/
+Original-Maintainer: Colin Watson <cjwatson@debian.org>
